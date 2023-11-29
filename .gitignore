@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# React
+build/
+dist/
+public/
+
+# Testing
+coverage/
+test-report.*
+junit.xml
+
+# Environment variables
+.env
+
+# Editor
+.vscode/
+
+# Jest
+jest.config.js
+coverage/
+
+# Testing-library
+/__tests__/coverage/
+
+# Babel
+babel-debug.log
+.eslintcache
+build/
+
+# Otros
+.awcache
+*.log
+*.orig
